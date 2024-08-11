@@ -1,1 +1,4 @@
 ore conversion? something similar to matter?
+
+We could use the arcofolders for unique resource folding which can convert some resources into a specific intermediate, which can then be turned into other resources.
+We could even have two tiers, one for raw resource folding, and then one for second stage resources (iron plates, copper plates, steel plates, stone brick)
