@@ -1,7 +1,7 @@
 Modules:
 
 Maybe impossible to code, but module that decreases the chance of arcospheres being used/flipped?
-
-
+--This is definitely impossible to do, modules can only affect machines and need incredibly complex coding to do script stuff. We dont want to do this.
 
 Beacons:
+We could do something like Py does with its vatbrains, where its a recipe that flips arcos and while the machine is running, a beacon is allowed to run which affects nearby buildings
