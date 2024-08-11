@@ -1,1 +1,31 @@
 
+So basically it’s a loop of 8 special boilers
+Each of them with a different recipe
+The first recipe:
+Takes:
+  5x every mc arco
+  hot potato 1
+  1000 water
+Gives:
+  45 McDonald arcos
+  hot potato 2
+  1000 super hot steam
+The second recipe:
+Takes:
+  5x every mc arco
+  hot potato 2
+  1000 water
+Gives:
+  45 Walmart arcos
+  hot potato 3
+  1000 super hot steam
+All the way until the 8th recipe:
+Takes:
+  5x every mc arco
+  hot potato 8
+  1000 water
+Gives:
+  45 KFC arcos
+  hot potato 1
+  1000 super hot steam
+And there would be a new type of turbine that generates electricity from super hot steam
